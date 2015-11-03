@@ -6,6 +6,8 @@ include 'resources/modules/header.php';
 </header>
 <body style="background-color:purple;">
 
+<H1>SILENT IS A FAGGOT</h1>
+
 <div id="BannerPhoto"><img src="#" alt="Banner Photo"></img></div>
 <div id="navbarwrapper">
 <div id="navbar">
